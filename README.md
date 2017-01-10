@@ -11,4 +11,6 @@ Steps to follow:
 4. select a zip file from your harddisk and go for it
 5. after upload a directory exists in the folder "zipper" from step 1
 
-// with ftp program (like Filezilla) you can easily move the content to the directory of your choice (that's all), which goes much faster
+with ftp program (like Filezilla) you can easily move the content to the directory of your choice (that's all), which goes much faster
+
+All credit goes to it's [original author](http://snipplr.com/users/jvandemerwe/) and the [originally uploaded script](http://snipplr.com/view/69947/)
